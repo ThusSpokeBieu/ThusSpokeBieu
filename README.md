@@ -1,4 +1,4 @@
-<div align="center"><h1>### Hi there! I'm Gabriel, 👋</h6> 
+<div align="center"><h1>### Hi there! I'm Gabriel, 👋</h1> 
 
 <p align="justify">- Today I'm working with HR and Psychology area, but I'm doing a transitioning in my career.<br />
 - Hoping that soon I'll start my dev career, even if as a freelancer.<br />
