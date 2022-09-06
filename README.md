@@ -1,8 +1,9 @@
-### Hi there! I'm Gabriel, 👋
+<div align="center"><h1>### Hi there! I'm Gabriel, 👋</h6> 
 
-- Today I'm working with HR and Psychology area, but I'm doing a transitioning in my career.
-- Hoping that soon I'll start my dev career, even if as a freelancer.
-- I am actually improving my frontend knowledges, and studying ReactJS.
+<p align="justify">- Today I'm working with HR and Psychology area, but I'm doing a transitioning in my career.<br />
+- Hoping that soon I'll start my dev career, even if as a freelancer.<br />
+- I am actually improving my frontend knowledges, and studying ReactJS.<br /></p>
+</div>
 
 <div align="center">
   <a href="https://github.com/gmessiasc">
