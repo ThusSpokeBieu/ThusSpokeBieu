@@ -1,8 +1,3 @@
-<div align="center">
-<p align="justify">- Today I'm working with HR and Psychology area, but I'm doing a transitioning in my career.<br />
-- Hoping that soon I'll start my dev career, even if as a freelancer.<br />
-- I am actually improving my backend knowledges, in java and spring framework.<br /></p>
-</div>
 
 <div align="center">
   <a href="https://github.com/gmessiasc">
