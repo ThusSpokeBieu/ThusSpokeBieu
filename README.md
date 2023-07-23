@@ -6,20 +6,14 @@
 </div>
 <br><br>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Gabriel-NestJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Gabriel-NodeJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Gabriel-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
-  <img align="center" alt="Gabriel-PostgreSQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Gabriel-MySQL" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gabriel-MongoDB" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
-  <Br><br><img align="center" alt="Gabriel-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gabriel-Ts" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gabriel-Docker" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabriel-GraphQL" height="50" width="70" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="Gabriel-React" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Gabriel-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Quarkus" height="50" width="70" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
+  <img align="center" alt="Gabriel-Go" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Gabriel-DotNetCore" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Gabriel-NestJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Gabriel-Angular" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  
   
 </div>
   <br><br>
