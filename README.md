@@ -9,11 +9,11 @@
     <img align="center" alt="Gabriel-Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Spring" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-Quarkus" height="50" width="70" src="https://www.svgrepo.com/show/354245/quarkus-icon.svg">
+  <img align="center" alt="Gabriel-Rust" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/rust/rust-plain.svg">
   <img align="center" alt="Gabriel-Go" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gabriel-DotNetCore" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Gabriel-NestJS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Gabriel-Angular" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  
+
+
   
 </div>
   <br><br>
