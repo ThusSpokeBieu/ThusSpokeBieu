@@ -10,7 +10,9 @@
   <img align="center" alt="Gabriel-Rust" height="50" width="70" src="https://th.bing.com/th/id/R.96cf5ed624ff3402da0846afbfbec43a?rik=aDX6rLWqOt6kaQ&pid=ImgRaw&r=0">
   <img align="center" alt="Gabriel-Go" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Gabriel-DotNetCore" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-
+  <br><br><br>
+  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)    ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)    ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
   
 </div>
